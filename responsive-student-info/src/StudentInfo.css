@@ -1,0 +1,25 @@
+.student-container {
+  padding: 16px;
+  border: 1px solid #ccc;
+  margin: 20px;
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+}
+
+.student-item {
+  margin: 8px 0;
+  font-size: 16px;
+}
+
+.horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.vertical {
+  display: flex;
+  flex-direction: column;
+}
